@@ -1,6 +1,6 @@
 # Logica Difusa para control de potencia en un sistema de aire acondicionado
 
-# El sistema está hecho en MATLAB y en JAVA 
+# El sistema está hecho en MATLAB (Librería fuzzyLogicDesigner) y en JAVA 
 
 Se crea un sistema de inferencia difuso para calcular la potencia de un aire acondicionado basándose en 3 variables de entrada:
 
