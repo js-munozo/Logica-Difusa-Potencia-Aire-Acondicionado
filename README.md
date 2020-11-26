@@ -15,3 +15,6 @@ Cantidad de personas en el cuarto:
 Temperatura del cuarto: hasta 20° frio, entre 18° y 28° templado y de 26 en adelante caliente  
 
 La variable de salida potencia se calcula por medio del método de defuzzificacion "Centro de gravedad" con conjuntos baja (0-10), media (7-23), alta (20-30).
+
+
+Se crea el sistema en MATLAB y en JAVA 
